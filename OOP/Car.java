@@ -1,7 +1,7 @@
 package OOP;
 
 public class Car {
-    private int numberOfWheels;
+    private int numberOfWheels;  // encapsulated data 
     private int seats;
 
     Car(int numberOfWheels, int seats){
